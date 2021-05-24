@@ -1,0 +1,11 @@
+{
+  "name": "task-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ArtIPok/task-express.git",
+  "author": "ArtIPok <apokora@itsap.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
